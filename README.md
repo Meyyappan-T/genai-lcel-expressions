@@ -86,10 +86,12 @@ inputs.invoke({"question": "Where is Saveetha Engineering College?"})
 ### OUTPUT:
 
 ### Simple Chain:
-![Result1](<Screenshot 2025-04-26 085502.png>)
+![image](https://github.com/user-attachments/assets/e46e445d-678f-43fe-b04c-e1cce1a00806)
+
 
 ### Complex Chain:
-![Result2](image.png)
+![image](https://github.com/user-attachments/assets/ed595b3d-c86a-4425-b68f-afd7b1c4e9e5)
+
 
 ### RESULT:
 Hence,the program to design and implement a LangChain Expression Language (LCEL) expression that utilizes at least two prompt parameters and three key components (prompt, model, and output parser), and to evaluate its functionality by analyzing relevant examples of its application in real-world scenarios is written and successfully executed.
